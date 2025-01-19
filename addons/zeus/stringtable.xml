@@ -4,100 +4,126 @@
         <Key ID="STR_ACM_Zeus_Module_UnCardiacArrest">
             <English>Un-Cardiac Arrest</English>
             <Polish>Wznowienie akcji serca</Polish>
+            <French>Reprise du rythme cardiaque
+</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_ForceWakeUp">
             <English>Force Wake-up</English>
             <Polish>Wymuszenie ocknięcia się</Polish>
+            <French>Forcer le réveil</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume">
             <English>Set Blood Volume</English>
             <Polish>Ustawienie ilości krwi</Polish>
+            <French>Paramétrage du volume sanguin</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_BloodVolume">
             <English>Blood Volume</English>
             <Polish>Ilość krwi</Polish>
+            <French>Quantité de sang</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_PlasmaVolume">
             <English>Plasma Volume</English>
             <Polish>Ilość osocza</Polish>
+            <French>Volume de plasma</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_SalineVolume">
             <English>Saline Volume</English>
             <Polish>Ilość soli fizjologicznej</Polish>
+            <French>Volume de solution saline</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest">
             <English>Inflict Cardiac Arrest</English>
             <Polish>Zatrzymanie akcję serca</Polish>
+            <French>Arrêt cardiaque</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm">
             <English>Target Rhythm</English>
             <Polish>Docelowy rytm</Polish>
+            <French>Rythme de la cible</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Sinus">
             <English>Sinus</English>
             <Polish>Sinus</Polish>
+            <French>Sinus</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Asystole">
             <English>Asystole</English>
             <Polish>Asystolia</Polish>
+            <French>Asystolie</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_VF">
             <English>Ventricular Fibrillation</English>
             <Polish>Migotanie komór</Polish>
+            <French>Fibrillation ventriculaire</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_PVT">
             <English>Ventricular Tachycardia</English>
             <Polish>Częstoskurcz komorowy (Tachykardia)</Polish>
+            <French>Tachycardie ventriculaire</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Random">
             <English>Random</English>
             <Polish>Losowy</Polish>
+            <French>Au hasard</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury">
             <English>Inflict Chest Injury</English>
             <Polish>Uraz klatki piersiowej</Polish>
+            <French>Infliger un lésion thoracique</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_InjuryType">
             <English>Injury Type</English>
             <Polish>Typ urazu</Polish>
+            <French>Type de blessure</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Pneumothorax">
             <English>Pneumothorax</English>
             <Polish>Odma płucna</Polish>
+            <French>Pneumothorax</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionPneumothorax">
             <English>Tension Pneumothorax</English>
             <Polish>Odma prężna</Polish>
+            <French>Pneumothorax sous tension</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Hemothorax">
             <English>Hemothorax</English>
             <Polish>Odma krwotoczna</Polish>
+            <French>Hémothorax</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionHemothorax">
             <English>Tension Hemothorax</English>
             <Polish>Odma prężno-krwotoczna</Polish>
+            <French>Hémothorax sous tension</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain">
             <English>Give Pain</English>
             <Polish>Zadanie bólu</Polish>
+            <French>Infliger une douleur</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain_PainAmount">
             <English>Pain Amount</English>
             <Polish>Ilość bólu</Polish>
+            <French>Intensité de la douleur</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetOxygen">
             <English>Set Oxygen</English>
             <Polish>Ustawienie tlenu</Polish>
+            <French>Régler l'oxygène</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetOxygen_OxygenLevel">
             <English>Oxygen Level</English>
             <Polish>Ustawienie poziomu tlenu</Polish>
+            <French>Réglage du niveau d'oxygène</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodType">
             <English>Set Blood Type</English>
+            <French>Définir le groupe sanguin</French>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodType_List">
             <English>Blood Type List</English>
+            <French>Liste des groupes sanguins</French>
         </Key>
     </Package>
 </Project>
