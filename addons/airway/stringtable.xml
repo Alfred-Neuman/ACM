@@ -367,6 +367,7 @@
         <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear_Short">
             <English>Clear</English>
             <Polish>Drożne</Polish>
+            <French>Dégagé</French>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_RecoveryPosition">
             <English>In Recovery Position</English>
@@ -465,6 +466,7 @@
         <Key ID="STR_ACM_Airway_Adjunct_Already">
             <English>Airway item already inserted</English>
             <Polish>Przedmiot jest już w użyciu</Polish>
+            <French>Elément de voie aérienne déjà inséré</French>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_Failed">
             <English>Failed to insert %1</English>
@@ -486,48 +488,59 @@
         <Key ID="STR_ACM_Airway_HeadTurn_Performed">
             <English>Head turning performed</English>
             <Polish>Obracanie głowy wykonane</Polish>
+            <French>Rotation de la tête effectuée</French>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayIsClear">
             <English>Airway is clear</English>
             <Polish>Drogi oddechowe drożne</Polish>
+            <French>Les voies respiratoires sont dégagées</French>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayCleared">
             <English>Airway has been cleared</English>
             <Polish>Drogi oddechowe oczyszczone</Polish>
+            <French>Les voies respiratoires ont été dégagées</French>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_Failed">
             <English>Head turning unsuccessful</English>
             <Polish>Obracanie głowy nieudane</Polish>
+            <French>Rotation de la tête sans succès</French>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_SuctionRequired">
             <English>Medical suction required</English>
             <Polish>Ssak wymagany</Polish>
+            <French>Aspiration médicale nécessaire</French>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_ActionLog">
             <English>%1 performed head turning</English>
             <Polish>%1 wykonał obracanie głowy</Polish>
+            <French>%1 a effectué une rotation de la tête</French>
         </Key>
         <!--
             // Recovery Position Action // -->
         <Key ID="STR_ACM_Airway_RecoveryPosition_Already">
             <English>Patient already in recovery position</English>
             <Polish>Pacjęt w pozycji bezpiecznej</Polish>
+            <French>Patient en position de sécurité</French>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established">
             <English>Established recovery position</English>
             <Polish>Pozycja bezpieczna wykonana</Polish>
+            <French>Position latérale de sécurité adoptée</French>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established_ActionLog">
             <English>%1 established recovery position</English>
             <Polish>%1 wykonał pozycję bezpieczną</Polish>
+            <French>%1 a effectué une position latérale de sécurité</French>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled">
             <English>Cancelled recovery position</English>
             <Polish>Przerwano pozycję bezpieczną</Polish>
+            <French>Interruption de la position latérale de sécurité</French>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled_ActionLog">
             <English>%1 cancelled recovery position</English>
             <Polish>%1 Przerwał pozycję bezpieczną</Polish>
+            <French>%1 position latérale de sécurité interrompue</French>
         </Key>
         <!--
             // GUI // -->
